@@ -1,5 +1,5 @@
-## 0x03. React component
-### Learning Objectives
+## React component
+### Objectives
 - When to use a Class or a function to create a component
 - The lifecycle of a Class component
 - How to test a component
